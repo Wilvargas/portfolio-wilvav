@@ -4,7 +4,7 @@
         "id": "1",
         "src": "./img/product-chain-1.png",
         "title": "Front-End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "During my exciting journey as a Frontend Developer at Platzi and DevTools Academy, I have gained essential skills to create amazing web experiences."
       },
       {
         "id": "2",
@@ -29,23 +29,23 @@
       {
         "id": "1",
         "src": "./img/placeholder-image.png",
-        "title": "Ahuse",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Swipe",
+        "description": "In my first steps in the world of technology, I had the opportunity to create a website dedicated to improving online payment methods and ensuring the security of transactions. This project was developed with the use of HTML and CSS, seeking technological solutions from the fundamentals of frontend development.",
+        "link": "https://swipe-mocha.vercel.app/"
       },
       {
         "id": "2",
         "src": "./img/placeholder-image-1.png",
-        "title": "App Dashboard",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Hotels",
+        "description": "I have created a captivating hotel page from scratch, using HTML, CSS and pure JavaScript. This page is visually appealing and also provides a great interactive and dynamic experience for users, thanks to JavaScript. My goal is to offer travelers the best experience when searching and booking hotels.",
+        "link": "https://hotels-cyan.vercel.app/"
       },
       {
         "id": "3",
         "src": "./img/placeholder-image-2.png",
-        "title": "Easy Rentn",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "link": "View In Github"
+        "title": "Hotel Migration",
+        "description": "I recently took my hotel page to a new level by migrating it to React. This exciting transition has boosted the efficiency and interactivity of the platform. With React, we have not only improved loading speed and user experience, but we have also opened the door for future innovations.",
+        "link": "Visit the page"
       }
     ],
     "testimonial": [
@@ -55,7 +55,7 @@
         "src": "./img/avatar-image.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
         "author_name": "Dianne Russel",
-        "author_designation": "Starbucks"
+        "author_designation": "Devtools Academy"
       },
       {
         "id": "2",
@@ -63,15 +63,15 @@
         "src": "./img/avatar-image-1.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
         "author_name": "Kristin Watson",
-        "author_designation": "Louis Vuitton"
+        "author_designation": "Platzi"
       },
       {
         "id": "3",
         "count": "5",
         "src": "./img/avatar-image-2.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-        "author_name": "Kathryn Murphy",
-        "author_designation": "McDonald's"
+        "author_name": "Daniel Murphy",
+        "author_designation": "Sofserve"
       }
     ]
   }
